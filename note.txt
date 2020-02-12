@@ -1,0 +1,20 @@
+
+electron: https://www.electronjs.org/
+https://www.electronjs.org/docs
+https://www.electronjs.org/docs/tutorial/first-app#installing-electron
+https://www.electron.build/
+https://github.com/electron-userland/electron-builder
+
+https://alligator.io/angular/electron/
+https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/
+https://www.sitepoint.com/build-a-desktop-application-with-electron-and-angular/
+https://angular.io/docs
+
+
+moveback>npm i -D electron@latest
+moveback>npx cross-env ELECTRON_GET_USE_PROXY=true GLOBAL_AGENT_HTTPS_PROXY=http://username:pwd@host:port npm install -D electron@latest
+
+
+#######
+https://github.com/sindresorhus/awesome-electron#boilerplates
+#########
