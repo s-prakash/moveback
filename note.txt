@@ -18,3 +18,5 @@ moveback>npx cross-env ELECTRON_GET_USE_PROXY=true GLOBAL_AGENT_HTTPS_PROXY=http
 #######
 https://github.com/sindresorhus/awesome-electron#boilerplates
 #########
+
+Refer: https://github.com/maximegris/angular-electron
